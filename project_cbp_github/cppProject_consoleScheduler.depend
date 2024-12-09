@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1728886657 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolealarm\main.cpp
+	<iostream>
+	<string>
+
+1731757158 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	"schedules.h"
+	"msg_formats.h"
+
+1731502895 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\bghandler.cpp
+
+1731747337 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\schedules.h
+	<string>
+	<vector>
+
+1731744130 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\msg_formats.h
+
+1731906816 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\bghandler.cpp
+
+1733685469 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\main.cpp
+	<iostream>
+	<string>
+	<future>
+	<ctime>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"tmp_containers.h"
+	"schedules.h"
+	"notifications.h"
+	"msg_formats.h"
+
+1733686859 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\schedules.h
+	<string>
+	<vector>
+	<fstream>
+	<filesystem>
+
+1733566943 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\msg_formats.h
+
+1732419947 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\notificationhandler.cpp
+
+1733403868 source:c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\main.cpp
+	<iostream>
+	<string>
+	<future>
+	<thread>
+	<ctime>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	"schedules.h"
+	"notifications.h"
+	"msg_formats.h"
+
+1733402986 c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\schedules.h
+	<string>
+	<vector>
+	<fstream>
+	<filesystem>
+
+1732328609 c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\msg_formats.h
+
+1733394870 source:c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\notificationhandler.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"notifications.h"
+
+1733394942 c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\notifications.h
+	<vector>
+
+1733395079 source:c:\users\xeroname\documents\codeblocks\projects\cppproject_consolescheduler\project_cbp\scripts\winnotifhandler.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"notifications.h"
+
+1733688875 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\notifications.h
+	<vector>
+
+1733579739 source:e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\winnotifhandler.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"notifications.h"
+
+1733579817 e:\users\pc\documents\계명대\1학년\2학기\과목\c++\projects\cppproject_consolescheduler\project_cbp\scripts\tmp_containers.h
+	<string>
+	<vector>
+
